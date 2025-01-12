@@ -18,7 +18,7 @@ As a Graduate Teaching Assistant in the Computer Science department at Florida I
 - **Network Security**
 
 ### My Contributions:
-- **Course Material Development**: Assisted in the creation of course materials, including lectures, assignments, and assessments.
+- **Course Material Development**: Assisted in the creation of course materials, including labs, lectures, assignments, and assessments.
 - **Office Hours**: Held regular office hours, providing individual and group support to clarify concepts and address student questions.
 - **Lab Sessions**: Led lab sessions where students applied theoretical knowledge through hands-on activities to strengthen their understanding.
 - **Grading and Feedback**: Graded assignments, exams, and projects, ensuring timely and constructive feedback to support student growth.
