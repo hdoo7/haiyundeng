@@ -33,9 +33,11 @@ Haiyun's research focuses on critical areas like Android device security, blockc
 
 With a strong technical foundation in Python, C*, and Java, as well as hands-on expertise in frameworks like TensorFlow, PyTorch, and Spring, Haiyun has excelled in both academic and industrial settings. During a software engineering internship at American Express, Haiyun enhanced API reliability and maintainability, demonstrating a knack for creating scalable and efficient solutions.
 
-As a Graduate Research Assistant and Teaching Assistant, Haiyun has combined technical acumen with a commitment to mentorship. She has developed course materials (e.g., creating labs for hands-on experiences), led lab sessions (e.g., reviewing course materials to help students with their upcoming assignments), and provided personalized guidance to students in courses such as Computer Architecture, Operating Systems, IoT Security, and Network Security.
+As a Graduate Research Assistant and Teaching Assistant, Haiyun has demonstrated a strong technical skill set and a dedication to mentorship. She has developed course materials, such as hands-on lab exercises, led lab sessions to review course content and support students with upcoming assignments, and provided personalized guidance in courses like Computer Architecture, Operating Systems, IoT Security, and Network Security.
 
 Haiyun's dedication to fostering innovation has been recognized through accolades like the Outstanding Undergraduate Award and the Microsoft Cybersecurity Scholarship. Whether analyzing data to uncover security vulnerabilities or building models to protect digital ecosystems, Haiyun is driven by a mission to enhance security, privacy, and technological resilience across industries.
+
+Haiyun began her academic journey as an undergraduate research assistant at the [Cyber-Physical Systems Security Lab (CSL)](http://csl.fiu.edu), where she investigated emerging cybersecurity challenges and collaborated with faculty and peers on innovative projects. She is currently continuing her work as a graduate research assistant at CSL, under the supervision of Professor [Selcuk Uluagac](https://www.cs.fiu.edu/~selcuk).
 
 ## Let’s Connect  
 I am eager to collaborate on innovative projects and make a difference in the tech community. Feel free to explore my projects on [GitHub](https://github.com/hdoo7) or connect with me on [LinkedIn](https://linkedin.com/in/haiyun-deng).

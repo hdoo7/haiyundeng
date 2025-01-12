@@ -1,6 +1,6 @@
 <!-- ---
 layout: profiles
-permalink: /people/
+permalink: /supervisor/
 title: people
 description: members of the lab or group
 nav: true
