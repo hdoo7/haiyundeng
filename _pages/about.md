@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Florida International University</a>. 11200 SW 8th St, Miami, FL 33199
+subtitle: <a href='#'>[Florida International University](https://www.fiu.edu/)</a>. 11200 SW 8th St, Miami, FL 33199
 
 profile:
   align: right
@@ -16,7 +16,7 @@ profile:
       Knight Foundation School of Computing and Information Sciences
     </p>
     <p style="font-family: 'Verdana', serif; font-size: 14px; color: #777;">
-      Florida International University, Miami, FL, USA
+      [Florida International University](https://www.fiu.edu/), Miami, FL, USA
     </p>
 
 news: true # includes a list of news items
@@ -27,7 +27,7 @@ social: true # includes social icons at the bottom of the page
 ## About Me  
 **Haiyun Deng, Ph.D.**  
 
-Haiyun Deng is a dedicated researcher, software engineer, and educator with a passion for advancing the field of computer science. Currently pursuing a Ph.D. in Computer Science at Florida International University, Haiyun has maintained a stellar academic record, with a perfect 4.0 GPA in both undergraduate and graduate studies. 
+Haiyun Deng is a dedicated researcher, software engineer, and educator with a passion for advancing the field of computer science. Currently pursuing a Ph.D. in Computer Science at [Florida International University](https://www.fiu.edu/), Haiyun has maintained a stellar academic record, with a perfect 4.0 GPA in both undergraduate and graduate studies. 
 
 Haiyun's research focuses on critical areas like Android device security, blockchain resilience, and privacy vulnerabilities in mHealth applications. Her work has been submitted for consideration at leading conferences and journals, including IEEE and USENIX. Notable contributions include developing advanced models for phishing detection and proposing adaptive solutions for securing decentralized financial (DeFi) platforms.
 
