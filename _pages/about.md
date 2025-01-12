@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>[Florida International University](https://www.fiu.edu/)</a>. 11200 SW 8th St, Miami, FL 33199
+subtitle: <a href='#'>Florida International University</a>. 11200 SW 8th St, Miami, FL 33199
 
 profile:
   align: right
@@ -16,7 +16,7 @@ profile:
       Knight Foundation School of Computing and Information Sciences
     </p>
     <p style="font-family: 'Verdana', serif; font-size: 14px; color: #777;">
-      [Florida International University](https://www.fiu.edu/), Miami, FL, USA
+      Florida International University, Miami, FL, USA
     </p>
 
 news: true # includes a list of news items
