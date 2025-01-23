@@ -143,32 +143,32 @@
       ]
     }
   ],
-  "publications": [
-    {
-      "name": "PhishProX: Proactive Phishing Defense with Feature Learning",
-      "publisher": "IEEE International Conference on Communications (ICC): Communication and Information System Security Symposium",
-      "releaseDate": "November 2024",
-      "url": "https://example.com"
-    },
-    {
-      "name": "Unveiling the Android Security Update Landscape",
-      "publisher": "IEEE Transactions on Dependable and Secure Computing",
-      "releaseDate": "November 2024",
-      "url": "https://example.com"
-    },
-    {
-      "name": "Strength in Numbers: Enhancing DEX Resilience with T2EMA Against Price Attacks",
-      "publisher": "IEEE International Conference on Blockchain and Cryptocurrency",
-      "releaseDate": "December 2024",
-      "url": "https://example.com"
-    },
-    {
-      "name": "Mind the Gap: Uncovering Privacy Pitfalls in mHealth Apps",
-      "publisher": "USENIX Security Symposium",
-      "releaseDate": "January 2025",
-      "url": "https://example.com"
-    }
-  ],
+  // "publications": [
+  //   {
+  //     "name": "PhishProX: Proactive Phishing Defense with Feature Learning",
+  //     "publisher": "IEEE International Conference on Communications (ICC): Communication and Information System Security Symposium",
+  //     "releaseDate": "November 2024",
+  //     "url": "https://example.com"
+  //   },
+  //   {
+  //     "name": "Unveiling the Android Security Update Landscape",
+  //     "publisher": "IEEE Transactions on Dependable and Secure Computing",
+  //     "releaseDate": "November 2024",
+  //     "url": "https://example.com"
+  //   },
+  //   {
+  //     "name": "Strength in Numbers: Enhancing DEX Resilience with T2EMA Against Price Attacks",
+  //     "publisher": "IEEE International Conference on Blockchain and Cryptocurrency",
+  //     "releaseDate": "December 2024",
+  //     "url": "https://example.com"
+  //   },
+  //   {
+  //     "name": "Mind the Gap: Uncovering Privacy Pitfalls in mHealth Apps",
+  //     "publisher": "USENIX Security Symposium",
+  //     "releaseDate": "January 2025",
+  //     "url": "https://example.com"
+  //   }
+  // ],
   "languages": [
     {
       "language": "English",
